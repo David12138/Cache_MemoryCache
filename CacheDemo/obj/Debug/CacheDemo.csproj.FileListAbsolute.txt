@@ -1,0 +1,14 @@
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\bin\Debug\CacheDemo.exe.config
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\bin\Debug\CacheDemo.exe
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\bin\Debug\CacheDemo.pdb
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\obj\Debug\CacheDemo.csprojAssemblyReference.cache
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\obj\Debug\CacheDemo.csproj.CoreCompileInputs.cache
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\obj\Debug\CacheDemo.exe
+D:\23-我的工作台\25-Cache\1-WindowCache\CacheDemo\obj\Debug\CacheDemo.pdb
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\bin\Debug\CacheDemo.exe.config
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\bin\Debug\CacheDemo.exe
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\bin\Debug\CacheDemo.pdb
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\obj\Debug\CacheDemo.csprojAssemblyReference.cache
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\obj\Debug\CacheDemo.csproj.CoreCompileInputs.cache
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\obj\Debug\CacheDemo.exe
+D:\23-我的工作台\25-Cache\2-MemoryCache\CacheDemo\obj\Debug\CacheDemo.pdb
